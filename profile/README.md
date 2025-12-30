@@ -239,3 +239,18 @@ To add your certificate images, please follow these steps:
 
 **Last Updated:** December 2025
 *"Building the networks that power tomorrow's applications"*
+
+---
+
+## 📜 View My Complete Certificate Gallery
+
+### [📜 Professional Certificate Gallery](./CERTIFICATES.md)
+
+**Explore my comprehensive certificate collection** featuring:
+- ✅ Completed certifications and training courses
+- 🔄 In-progress certification roadmap
+- 📅 Planned certifications for 2025
+- 🖼️ Visual certificate display and organization
+- 📊 Career achievement tracking and statistics
+
+[**View Full Gallery →**](./CERTIFICATES.md)
