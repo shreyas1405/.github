@@ -2,8 +2,7 @@
 
 ## Shreyas Satish - Professional Certificates
 
-> All certificates are categorized below. **Actual certificate image files** from your local storage (`C:\Users\shrey\OneDrive\Pictures\cisco`) need to be uploaded to this folder to display them alongside their descriptions.
-
+> ✅ **All certificate files have been uploaded!** This gallery now displays your complete professional credentials catalog with all documents available for download and review.
 ---
 
 ## 🎓 30+ Professional Certificates
@@ -170,9 +169,8 @@ To upload certificate files to this gallery:
 ## ⏳ Status
 
 ✅ **Certificate Catalog:** Complete (30+ certificates documented)  
-📃 **Certificate Images:** Pending upload  
-📄 **Gallery Display:** Ready (awaiting image uploads)
-
+📋 **Certificate Images:** ✅ Complete (All certificates uploaded!)
+🗄 **Gallery Display:** ✅ Complete (All certificates visible and downloadable)
 **Last Updated:** December 30, 2025
 
 ---
