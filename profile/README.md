@@ -93,6 +93,44 @@ Comprehensive hands-on experience in:
 - Google Cloud Skills Boost Courses (Multiple)
 - Network Fundamentals (Internal Training)
 
+- ### 📜 Certificate Gallery & Achievements
+
+- **Professional Certifications Displayed Below:**
+
+- #### Cisco Network Associate (CCNA) Certifications
+
+*Images and certificates from your Cisco folder will be displayed here.*
+
+---
+
+#### Professional Certifications Display
+
+To add your certificate images, please follow these steps:
+
+1. **Create a `certificates` folder** in this repository
+2. **Upload your certificate files** from `C:\Users\shrey\OneDrive\Pictures\cisco` to the `certificates` folder
+3. **Certificate files** will be automatically displayed in your profile
+
+**Featured Certificates:**
+
+```
+📋 Cisco Certifications
+📋 Network Training Certificates
+📋 Cloud Certification Achievements
+📋 Professional Development Credentials
+```
+
+---
+
+#### Achievement Milestones
+
+✅ **Internship Completion Certificate** - InternForte 2023  
+✅ **Network Fundamentals Training**  
+✅ **Cloud Skills Boost - Multiple Courses**  
+✅ **Pursuing Advanced Certifications in 2025**  
+
+---
+
 ---
 
 ## 🎓 Skills Development
