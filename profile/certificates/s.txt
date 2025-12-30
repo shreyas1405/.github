@@ -1,0 +1,136 @@
+https://www.cloudskillsboost.google/public_profiles/5f45c062-533b-43b5-b161-e27026739596
+
+Introduction to Generative AI
+Earned May 4, 2024 EDT
+
+Introduction to Responsible AI
+Earned May 7, 2024 EDT
+
+Responsible AI: Applying AI Principles with Google Cloud
+Earned May 7, 2024 EDT
+
+Introduction to Image Generation
+Earned May 12, 2024 EDT
+
+Attention Mechanism
+Earned May 12, 2024 EDT
+
+Encoder-Decoder Architecture
+Earned May 12, 2024 EDT
+
+Transformer Models and BERT Model
+Earned May 12, 2024 EDT
+
+Create Image Captioning Models
+Earned May 12, 2024 EDT
+
+Prompt Design in Vertex AI
+Earned May 14, 2024 EDT
+
+Gemini for end-to-end SDLC
+Earned May 14, 2024 EDT
+
+Preparing for Your Professional Cloud Network Engineer Journey
+Earned May 16, 2024 EDT
+
+Google Security Operations - Deep Dive
+Earned May 16, 2024 EDT
+
+Google Security Operations - Fundamentals
+Earned May 16, 2024 EDT
+
+Develop GenAI Apps with Gemini and Streamlit
+Earned May 17, 2024 EDT
+
+Google Cloud Fundamentals: Core Infrastructure
+Earned May 29, 2024 EDT
+
+Introduction to Vertex AI Studio
+Earned May 29, 2024 EDT
+
+Machine Learning Operations (MLOps) for Generative AI
+Earned May 29, 2024 EDT
+
+Vector Search and Embeddings
+Earned May 29, 2024 EDT
+
+Preparing for Your Professional Cloud Security Engineer Journey
+Earned Jun 3, 2024 EDT
+
+Modernizing Retail and Ecommerce Solutions with Google Cloud
+Earned Jun 12, 2024 EDT
+
+Introduction to Security Principles in Cloud Computing
+Earned Jun 12, 2024 EDT
+
+Gemini for Cloud Architects
+Earned Jun 17, 2024 EDT
+
+Gemini for Security Engineers
+Earned Jun 17, 2024 EDT
+
+Gemini for Application Developers
+Earned Jul 25, 2024 EDT
+
+Strategies for Cloud Security Risk Management
+Earned Jul 25, 2024 EDT
+
+Responsible AI for Developers: Fairness & Bias
+Earned Aug 2, 2024 EDT
+
+Responsible AI for Developers: Interpretability & Transparency
+Earned Aug 2, 2024 EDT
+
+Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
+Earned Aug 2, 2024 EDT
+
+Put It All Together: Prepare for a Cloud Security Analyst Job
+Earned Aug 2, 2024 EDT
+
+Preparing for Your Google Workspace Administrator Journey
+Earned Aug 2, 2024 EDT
+
+Serverless Data Processing with Dataflow: Operations
+Earned Aug 2, 2024 EDT
+
+Cloud Security Risks: Identify and Protect Against Threats
+Earned Sep 9, 2024 EDT
+
+Detect, Respond, and Recover from Cloud Cybersecurity Attacks
+Earned Oct 18, 2024 EDT
+
+Networking in Google Cloud: Network Architecture
+Earned Oct 26, 2024 EDT
+
+
+Networking in Google Cloud: Routing and Addressing
+Earned Nov 2, 2024 EDT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
