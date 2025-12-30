@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Shreyas Satish
 ## Network Infrastructure & Cloud Solutions Engineer
 
-**Profile Rating: ⭐⭐⭐⭐⭐ 10/10**
-
 Passionate Network Engineer with expertise in designing and deploying robust network infrastructure, cloud computing solutions, and data communication systems. Currently pursuing advanced certifications in networking and cloud technologies while maintaining hands-on experience with enterprise-level infrastructure.
 
 ---
