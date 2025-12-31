@@ -252,3 +252,102 @@ To add your certificate images, please follow these steps:
 - 📊 Career achievement tracking and statistics
 
 [**View Full Gallery →**](./CERTIFICATES.md)
+
+---
+
+## 🔧 Featured Projects
+
+### 1. **Ping-Trace-Tool** - ICMP Ping & Traceroute Network Utility
+**Repository:** [ping-trace-tool](https://github.com/shreyas1405/ping-trace-tool)
+
+**Description:** A comprehensive Python-based networking utility for host reachability and route path analysis.
+
+**Key Features:**
+- 🔍 ICMP Ping functionality with configurable timeouts
+- 🛣️ Traceroute implementation for route path analysis
+- 📊 Multi-target batch processing
+- 📈 Response time measurements and latency analysis
+- 💾 CSV-based logging for historical data
+- 📋 HTML report generation with visualizations
+- 🔄 Comprehensive status tracking and statistics
+
+**Technologies Used:**
+- Python 3.8+ | ICMP Protocol | CSV | HTML | Network Programming
+
+**What I Learned:**
+- ✅ Deep understanding of ICMP protocol implementation
+- ✅ Network packet handling and analysis
+- ✅ Building CLI tools for network diagnostics
+- ✅ Data processing and report generation
+- ✅ System-level network operations
+
+---
+
+### 2. **Host Monitor** - Comprehensive Host & Service Monitoring Tool
+**Repository:** [host-monitor](https://github.com/shreyas1405/host-monitor)
+
+**Description:** Production-ready monitoring tool for continuous host availability and service health checking with real-time alerts and comprehensive logging.
+
+**Key Features:**
+- 🏥 Real-time host availability monitoring (ICMP Ping)
+- 🔌 Service port/TCP connectivity checking
+- 🚨 Multi-channel alert system (console, file, email-ready)
+- 📊 CSV-based comprehensive logging and event tracking
+- ⚙️ YAML-based flexible configuration management
+- 🐳 Full Docker containerization support
+- 🔄 Alert deduplication to prevent notification spam
+- 📈 State tracking with configurable failure thresholds
+
+**Documentation Provided:**
+- **README.md** - Complete user guide with installation & usage examples
+- **DOCUMENTATION.md** - Technical architecture, algorithms, and design patterns
+- **PROJECT_REPORT.md** - Comprehensive project completion report
+
+**Technologies Used:**
+- Python 3.8+ | Docker | YAML | CSV | Socket Programming | Docker
+
+**Architecture Highlights:**
+- Event-driven monitoring loop with configurable intervals
+- State machine pattern for status management
+- Observer pattern for alert channel dispatching
+- Graceful error handling and degradation
+- Multi-host and multi-service support
+
+**What I Learned:**
+- ✅ System design principles and architecture patterns
+- ✅ TCP/IP socket programming and network testing
+- ✅ State management and event-driven architectures
+- ✅ Configuration management and YAML processing
+- ✅ Docker containerization and deployment
+- ✅ Comprehensive documentation practices
+- ✅ Production-grade error handling and logging
+- ✅ CSV data handling and historical tracking
+
+---
+
+## 📊 Project Statistics
+
+| Project | Type | Status | Documentation | Deployment |
+|---------|------|--------|---------------|------------|
+| **Ping-Trace-Tool** | CLI Tool | ✅ Complete | Comprehensive | Docker Ready |
+| **Host Monitor** | Monitoring System | ✅ Complete | Full Suite (3 docs) | Docker Supported |
+
+**Total Documentation:** 5+ detailed markdown files covering README, technical architecture, and project reports.
+
+---
+
+## 🎯 Latest Updates (January 2025)
+
+✨ **Projects Recently Updated to GitHub:**
+- ✅ Added comprehensive README documentation to all projects
+- ✅ Created detailed technical documentation files
+- ✅ Wrote detailed project completion reports
+- ✅ Implemented production-grade code with full Docker support
+- ✅ Documented all learning outcomes and technical achievements
+
+Both projects demonstrate:
+- 🌟 Strong networking fundamentals and protocol understanding
+- 🌟 Excellent system design and architecture practices
+- 🌟 Professional documentation and code organization
+- 🌟 Production-ready deployment capabilities
+- 🌟 Real-world problem-solving approaches
